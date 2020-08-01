@@ -8,25 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\grobinson\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\rbnsn\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grobinson\\source\\repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
+      "projectUniqueName": "C:\\Users\\rbnsn\\Source\\Repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
       "projectName": "ProjectEuler",
-      "projectPath": "C:\\Users\\grobinson\\source\\repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
-      "packagesPath": "C:\\Users\\grobinson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grobinson\\source\\repos\\ProjectEuler\\ProjectEuler\\obj\\",
+      "projectPath": "C:\\Users\\rbnsn\\Source\\Repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
+      "packagesPath": "C:\\Users\\rbnsn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rbnsn\\Source\\Repos\\ProjectEuler\\ProjectEuler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\grobinson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rbnsn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -65,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -11,3 +11,16 @@ C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.
 C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.dll
 C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.pdb
 C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.genruntimeconfig.cache
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.exe
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.deps.json
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.runtimeconfig.json
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.runtimeconfig.dev.json
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.dll
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.pdb
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csprojAssemblyReference.cache
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.AssemblyInfoInputs.cache
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.AssemblyInfo.cs
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csproj.CoreCompileInputs.cache
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.dll
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.pdb
+C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.genruntimeconfig.cache
