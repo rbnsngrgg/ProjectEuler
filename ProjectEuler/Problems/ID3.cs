@@ -32,27 +32,13 @@ namespace ProjectEuler.Problems
             for(long x = 2; x < Math.Sqrt(factorOf); x++)
             {
                 if (!(factorOf%x == 0)){ continue; }
-                if (IsPrime(x))
+                if (Maths.IsPrime(x))
                 {
                     if (x > result)
                     { result = x; }
                 }
             }
             return result;
-        }
-
-        private bool IsPrime(long number)
-        {
-            if (number == 2) { return true; }
-            else if(number < 2) { return false; }
-            for (long x = 2; x < number; x++)
-            {
-                
-                if(x*x > number) { break; }
-                if (number%x == 0)
-                {return false; }
-            }
-            return true;
         }
     }
 }
