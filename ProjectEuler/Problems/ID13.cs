@@ -121,7 +121,13 @@ namespace ProjectEuler.Problems
                 "Press any key to start...\n");
             Console.ReadKey();
 
-
+            long result = 0;
+            foreach(string numString in numbers)
+            {
+                long number = long.Parse(numString.Substring(0, 15));
+                result += number;
+            }
+            Console.WriteLine($"\nFinal result: {result.ToString().Substring(0,10)}");
         }
     }
 }
