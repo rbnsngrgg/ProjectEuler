@@ -24,6 +24,7 @@ namespace ProjectEuler
                     "11. Largest Product in a Grid\n" +
                     "12. Highly Divisible Triangular Number\n" +
                     "13. Large Sum\n" +
+                    "14. Longest Collatz Sequence\n" +
                     "\nType \"exit\" to exit.\n");
 
                 string selection = Console.ReadLine();
@@ -117,6 +118,12 @@ namespace ProjectEuler
                 case "13":
                     {
                         var problem = new ID13();
+                        problem.Start();
+                        break;
+                    }
+                case "14":
+                    {
+                        var problem = new ID14();
                         problem.Start();
                         break;
                     }
