@@ -19,5 +19,20 @@ namespace ProjectEuler.Problems
             }
             return true;
         }
+
+        public static double ProductOfPrimesBelow(long targetNum)
+        {
+            double product = 1;
+            double prime = 0;
+            while (prime < targetNum)
+            {
+                prime += 1;
+                if (Maths.IsPrime((long)prime))
+                {
+                    product *= prime;
+                }
+            }
+            return product;
+        }
     }
 }

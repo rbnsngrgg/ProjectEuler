@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rbnsn\\source\\repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj": {}
+    "C:\\Users\\grobinson\\source\\repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rbnsn\\source\\repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj": {
+    "C:\\Users\\grobinson\\source\\repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rbnsn\\source\\repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
+        "projectUniqueName": "C:\\Users\\grobinson\\source\\repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
         "projectName": "ProjectEuler",
-        "projectPath": "C:\\Users\\rbnsn\\source\\repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
-        "packagesPath": "C:\\Users\\rbnsn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rbnsn\\source\\repos\\ProjectEuler\\ProjectEuler\\obj\\",
+        "projectPath": "C:\\Users\\grobinson\\source\\repos\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
+        "packagesPath": "C:\\Users\\grobinson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grobinson\\source\\repos\\ProjectEuler\\ProjectEuler\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rbnsn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\grobinson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

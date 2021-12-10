@@ -25,6 +25,7 @@ namespace ProjectEuler
                     "12. Highly Divisible Triangular Number\n" +
                     "13. Large Sum\n" +
                     "14. Longest Collatz Sequence\n" +
+                    "266. Pseudo Square Root\n" +
                     "\nType \"exit\" to exit.\n");
 
                 string selection = Console.ReadLine();
@@ -127,10 +128,15 @@ namespace ProjectEuler
                         problem.Start();
                         break;
                     }
+                case "266":
+                    {
+                        var problem = new ID266();
+                        problem.Start();
+                        break;
+                    }
                 default:
                     break;
             }
-
         }
     }
 }

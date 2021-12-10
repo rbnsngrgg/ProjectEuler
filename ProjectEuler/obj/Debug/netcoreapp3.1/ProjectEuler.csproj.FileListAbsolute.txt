@@ -4,7 +4,6 @@ C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.
 C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.runtimeconfig.dev.json
 C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.dll
 C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.pdb
-C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csprojAssemblyReference.cache
 C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.AssemblyInfoInputs.cache
 C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.AssemblyInfo.cs
 C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csproj.CoreCompileInputs.cache
@@ -24,3 +23,5 @@ C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\Pr
 C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.dll
 C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.pdb
 C:\Users\rbnsn\Source\Repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.genruntimeconfig.cache
+C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csproj.AssemblyReference.cache
+C:\Users\grobinson\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.GeneratedMSBuildEditorConfig.editorconfig
